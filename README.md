@@ -1,2 +1,2 @@
 # Book--my--Trip
-panning agent
+planning agent
